@@ -44,7 +44,7 @@ Different parts of this repository use **different licenses**, chosen to match t
 RevEng_Bosch_BCS220/
 ├── schematics/        # Reconstructed circuit schematics
 │                      # License: CERN-OHL-W v2.0
-├── pcb/               # PCB layout, netlists, board analysis
+├── pcb/               # pcbtracer project (PCB layout, netlists, board analysis)
 │                      # License: CERN-OHL-W v2.0
 ├── docs/              # Reverse engineering notes, analysis reports
 │                      # License: CC-BY-SA 4.0
@@ -52,6 +52,8 @@ RevEng_Bosch_BCS220/
 │                      # License: CC-BY-SA 4.0
 └── README.md
 ```
+
+The (local cloned) pcb folder can be directly opened as project folder with https://opcbtracer.com
 ---
 
 ## License Details
