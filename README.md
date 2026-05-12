@@ -53,7 +53,10 @@ RevEng_Bosch_BCS220/
 └── README.md
 ```
 
-The (local cloned) pcb folder can be directly opened as project folder with https://opcbtracer.com
+## Folder Details
+- The schematics folder contains a subfolder with the KiCad project files. The main folder will contain pdf exports as soon as the errors in the schematics seem to be solved. Currently there are obvious errors and/or missing connections.
+- The (local cloned) pcb folder can be directly opened as project folder with https://pcbtracer.com
+- The photos folder is currently empty, I have a bunch of photos and I would like to sort them previously
 ---
 
 ## License Details
