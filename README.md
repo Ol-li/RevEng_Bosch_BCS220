@@ -42,7 +42,7 @@ Different parts of this repository use **different licenses**, chosen to match t
 ## Repository Structure and Licensing
 ```text
 RevEng_Bosch_BCS220/
-├── schematics/        # Reconstructed circuit schematics
+├── schematics/        # Reconstructed circuit schematics (KiCad project)
 │                      # License: CERN-OHL-W v2.0
 ├── pcb/               # pcbtracer project (PCB layout, netlists, board analysis)
 │                      # License: CERN-OHL-W v2.0
